@@ -6,6 +6,7 @@ Coming soon
 ## DB15 Pinout on Cobalt FLux
 <ADD DB15 image>
 
+```
 1: Ground
 2: Up
 3: Down
@@ -18,3 +19,4 @@ Coming soon
 10: Center
 11: Start
 12: Select
+```
